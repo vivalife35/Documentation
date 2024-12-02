@@ -12,18 +12,21 @@ HTML Structure
 1. Head Section
 Meta Tags: Set character encoding to UTF-8 and make the page responsive.
 External Resources:
+
 Bootstrap CSS: For layout and components.
+
 Icons: Bootstrap Icons and Font Awesome for social media icons.
+
 Custom CSS: For custom styling.
 
 
-2. Navbar
+3. Navbar
 A responsive navigation bar at the top with links to:
 Home
 Health Tracker
 Contact Us
 
-3. Health Tracker Cards
+4. Health Tracker Cards
 The page includes three sections for tracking health goals:
 Sleep Tracker
 Water Intake Tracker
