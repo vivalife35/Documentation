@@ -31,8 +31,8 @@ Health Tracker
 
 Contact Us
 
-4. Health Tracker Cards
-5. 
+3. Health Tracker Cards
+ 
 The page includes three sections for tracking health goals:
 
 Sleep Tracker
@@ -61,8 +61,8 @@ Actual input: Where users input their actual data (e.g., actual sleep hours).
 
 Submit button: To update progress.
 
-6. Footer
-7. 
+5. Footer
+   
 The footer includes:
 
 Site information and copyright.
